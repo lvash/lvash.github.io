@@ -1,23 +1,19 @@
-<div class="container">
-  <div class="row">
-    <div class="twelve columns stripe">
-      <div class="hl"><a href="/">{{ site.title }}</a></div>
-      <small><em>{{ site.subtitle }}</em></small>
-    </div>
+
+<div class="wrapper">
+  <center> <a href="/index.html"><div class="site-title">   {{site.title}} </div></a></center>
+</div>
+<div class="wrapper site-description">
+<center>  {{site.description}} </center>
+</div>
+<div class="wrapper">
+  <div class="trigger site-navigation">
+    <a class="page-link" href="/index.html">HOME</a><span class="exclamationMark">/</span>
+
+    {% for sitePage in site.pages %}
+    {% if sitePage.title %}
+
+    <a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a><span class="exclamationMark">/</span>
+    {% endif %}
+    {% endfor %}
   </div>
-  <nav class="main">
-    <div class="twelve columns">
-      <ul class="navi">
-
-        {% for page in site.pages %}
-        {% unless page.navi.exclude == true %}
-        <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
-        {% endunless %}
-        {% endfor %}
-
-      </ul>
-  
-
-    </div>
-  </nav>
 </div>
