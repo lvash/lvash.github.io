@@ -9,7 +9,7 @@ url: "http://www.lvash.github.io"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
-img_path: 'http://www.jack003.com/static/img/blog'
+img_path: ''
 
 # author
 author:
@@ -23,11 +23,11 @@ author:
 
 # social link
 jingyu:
-  first_name: 'Yu'
-  last_name: 'Jing'
-  description: 'Painter.'
-  link: 'http://angular.jack003.com'
-  email: '805963294@qq.com'
+  first_name: ''
+  last_name: ''
+  description: ''
+  link: ''
+  email: ''
 
 # landing page
 landing:
@@ -42,20 +42,20 @@ landing:
 # my projects
 project:
   saplatform:
-    name: 'Saplatform'
-    url: '/Jack614/saplatform'
-    img: 'static/img/landing/saplatform.png'
+    name: ''
+    url: ''
+    img: ''
   jalpc:
-    name: 'Jalpc'
-    url: '/Jack614/jalpc_jekyll_theme'
-    img: 'static/img/landing/jekyll.png'
+    name: ''
+    url: ''
+    img: ''
   angularjs:
-    name: 'Jalpc-A'
-    url: '/Jack614/Jalpc-A'
-    img: 'static/img/landing/angularjs.png'
+    name: ''
+    url: ''
+    img: ''
   Rsser:
-    name: 'Rsser'
-    url: '/Jack614/Rsser'
+    name: ''
+    url: ''
     img: 'static/img/landing/rsser.png'
 
 # blog index
@@ -70,28 +70,28 @@ index:
 
 # donate
 donate:
-  wechat: 'static/img/pay/wechat.png'
-  alipay: 'static/img/pay/alipay.png'
+  wechat: ''
+  alipay: ''
 
 # comment
 changyan:
   # appid: cysfY7ULn
   # conf: prod_861928934cecb7a18e15bedaed9dae29
 disqus:
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+  name: 
+  public_key: 
 
 # share
 bshare:
-  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
+  uuid: 
 
 # baidu analytics
 ba:
-  uuid: 317acca9ef9255b934e46371e471431d
+  uuid: 
 
 # google analytics
 ga:
-  id: UA-73784599-1
+  id: 
 
 # Build settings
 encoding: "utf-8"
