@@ -1,11 +1,11 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Lauren Ash"
+title: "Jalpc"
 description: "Jack's blog,use Jekyll and github pages."
-keywords: "UVM, amphibian, disease"
+keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
 baseurl: "/"
-url: "http://www.lvash.github.io"
+url: "http://www.jack003.com"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
@@ -13,13 +13,13 @@ img_path: 'http://www.jack003.com/static/img/blog'
 
 # author
 author:
-  name: 'Lauren Ash'
-  first_name: 'Lauren'
-  last_name: 'Ash'
-  email: 'lvash@uvm.edu'
+  name: 'Jack'
+  first_name: 'Jia'
+  last_name: 'Kun'
+  email: 'me@jack003.com'
   facebook_username: 'jiakunnj'
   github_username: 'Jack614'
-  head_img: 'static/img/landing/Jack.jpg'
+  head_img: 'static/img/landing/Lauren.jpg'
 
 # social link
 jingyu:
