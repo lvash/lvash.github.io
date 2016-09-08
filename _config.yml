@@ -27,7 +27,7 @@ jingyu:
   last_name: ''
   description: ''
   link: ''
-  email: ''
+  email: 'lvash@uvm.edu'
 
 # landing page
 landing:
@@ -35,7 +35,7 @@ landing:
   about: 'About'
   career: 'Career'
   skills: 'Skills'
-  projects: 'Project'
+  projects: 'Projects'
   blog: 'Blog'
   contact: 'Contact'
 
