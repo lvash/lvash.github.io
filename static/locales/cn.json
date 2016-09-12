@@ -20,10 +20,8 @@
   },
   "projects":{
     "my_projects": "Mes Projets",
-    "saplatform": "Saplatform",
-    "jalpc": "Jalpc",
-    "angularjs": "Angularjs",
-    "rsser": "Rsser"
+    "saplatform": "Le ranavirus est une maladie amphibien qui est la cause de la mortalité de masse à travers le monde. Il doit encore être documenté d'origine naturelle dans le Vermont, ce qui est l'objet de ma recherche.",
+    "jalpc": "Liatris-novae angliae est une fleur rare endémique à la Nouvelle-Angleterre. Je travaille sur la comparaison des occurrences historiques et actuelles en utilisant les données des programmes du 'Natural Heritage' de différents états."
   },
   "career":{
     "my_career": "Ma Chronologie",
@@ -49,7 +47,7 @@
   },
   "link":{
     "link": "Contact",
-    "view": "Vues"
+    "view": "vues"
   }
 
 }
