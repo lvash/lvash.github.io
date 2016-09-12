@@ -20,10 +20,8 @@
   },
   "projects":{
     "my_projects": "My Projects",
-    "saplatform": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
-    "jalpc": "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.",
-    "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
-    "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
+    "saplatform": "The ranavirus is an amphibian disease causing mass die-offs across the world. It has yet to be documented naturally in Vermont, which is what my research focuses on.",
+    "jalpc": "Liatris-novae angliae is a rare flower endemic to New England. I have been working on comparing historic and present occurrences using data from the Natural Heritage programs of various states."
   },
   "career":{
     "my_career": "My Career",
