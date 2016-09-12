@@ -48,7 +48,7 @@ project:
   jalpc:
     name: ''
     url: ''
-    img: ''
+    img: 'static/img/landing/saplatform.png'
 
 
 # blog index
