@@ -54,8 +54,8 @@ project:
 # blog index
 index:
   home: 'Home'
-  python: 'Python'
-  linux: 'Linux'
+  python: 'Notebook'
+  linux: 'CV'
   html: 'HTML'
   database: 'Database'
   mac: 'Mac'
