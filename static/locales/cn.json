@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Le blog de Lauren"
+    "title": "Un blog d'écologie et conservation"
   },
   "nav":{
     "home": "Accueil",
@@ -9,47 +9,47 @@
     "projects": "Projets",
     "career": "Chronologie",
     "blog": "Blog",
-    "link": "Contact"
+    "contact": "Contact"
   },
   "about_me":{
-    "about_me": "关于我",
-    "des": "我是一名Python工程师，有开发网站，运维自动化，编写脚本的经验。人生是不断学习的过程，工作使我变的更严谨，旅行让我的生活更加多彩。通过编程和旅行我能结识到很多朋友。"
+    "about_me": "De Moi",
+    "des": "Je suis une doctorante à l'Université du Vermont et je suis intéressé par la façon dont certains facteurs influent sur la transmission d'une maladie des amphibiens, le ranavirus."
   },
   "skills":{
-    "my_skills": "Compétences"
+    "my_skills": "Mes Compétences"
   },
   "projects":{
-    "my_projects": "Projets",
-    "saplatform": "Saplatform是一个自动化运维服务，包括资产管理、项目发布、数据库管理等功能,它可以管理大量服务器。",
-    "jalpc": "Jalpc是一个非常简洁、漂亮和快速部署的Jekyll主题，它有非常全面的功能，可以很方便的修改和使用，适应多种设备。",
-    "angularjs": "这是一个Angularjs写的前端应用，使用Jelyll部署在github的gh-pages上，后台使用Leancloud，你也可以使用Parse。",
-    "rsser": "Rsser是一个Ionic应用，在这个应用下，我们可以自由的阅读新闻和文章，你可以从给定的列表中添加rss地址也可以手动添加。"
+    "my_projects": "Mes Projets",
+    "saplatform": "Saplatform",
+    "jalpc": "Jalpc",
+    "angularjs": "Angularjs",
+    "rsser": "Rsser"
   },
   "career":{
-    "my_career": "Chronologie",
-    "nextcode": "Nextcode",
-    "nextcode_des": "现在我在Nextcode，使用Python为基因分析项目做网站.",
-    "nextcode_date": "2016年4月",
-    "nextcode_job": "Python工程师",
-    "netease": "网易游戏",
-    "netease_des": "在网易游戏，我了解到游戏体系，并使用Python代码为自动化运维服务.",
-    "netease_date": "2015年6月",
-    "netease_job": "运维开发工程师",
-    "ucloud": "Ucloud",
-    "ucloud_des": "在Ucloud,我开始和服务器、操作系统打交道，并使用shell脚本管理海量服务器.",
-    "ucloud_date": "2013年9月",
-    "ucloud_job": "运维开发工程师",
-    "college": "毕业",
-    "college_des": "2013年7月大学毕业，开始了IT职业生涯",
-    "college_date": "2013年7月",
-    "college_job": "学生"
+    "my_career": "Ma Chronologie",
+    "nextcode": "Collection de tissues amphibien",
+    "nextcode_des": "Je finis ma première saison sur le terrain, où je collectionnais les tissus orteil et la queue des amphibiens à 18 sites autour Vermont.",
+    "nextcode_date": "Mai-Août 2016",
+    "nextcode_job": "Travail sur le terrain",
+    "netease": "Commencé à l'Université du Vermont",
+    "netease_des": "J'ai commencé mon voyage pour obtenir mon diplôme de doctorat à l'Université du Vermont, conseillé par Dr. Nicholas Gotelli.",
+    "netease_date": "Août 2015",
+    "netease_job": "Doctorante",
+    "ucloud": "Diplômé de l'University College de Londres",
+    "ucloud_des": "Je suis diplômé de l'UCL avec un Master de Recherche en Biodiversité, Evolution et Conservation, et j'ai travaillé sur la modélisation des distributions de espèces pendant ce temps.",
+    "ucloud_date": "Sept. 2014",
+    "ucloud_job": "MRes",
+    "college": "Diplômé de l'Université de Floride",
+    "college_des": "Je suis diplômé de UF avec un baccalauréat en sciences en écologie et conservation de la faune.",
+    "college_date": "Mai 2012",
+    "college_job": "B.S."
   },
   "blog":{
-    "my_blog": "Blog"
+    "my_blog": "Mon Blog"
   },
   "link":{
     "link": "Contact",
-    "view": "次访问"
+    "view": "Vues"
   }
 
 }
