@@ -571,5 +571,20 @@ permalink: /
                 // $('.set_en').removeClass('active');
             });
         });
+        $('.set_fr').on('click', function (){
+            i18n.setLng('fr', function(){
+                $('.i18container').i18n();
+                // $('#i18_title').i18n();
+                $('#i18_navbar').i18n();
+                $('#i18_about_me').i18n();
+                $('#i18_skills').i18n();
+                $('#i18_projects').i18n();
+                $('#i18_career').i18n();
+                $('#i18_blog').i18n();
+                $('#i18_link').i18n();
+                // $('.set_fr').addClass('active');
+                // $('.set_fr').removeClass('active');
+            });
+        });
     });
 </script>

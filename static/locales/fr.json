@@ -1,0 +1,56 @@
+{
+  "website":{
+    "title": "Un blog d'écologie et conservation"
+  },
+  "nav":{
+    "home": "Accueil",
+    "about_me": "Moi",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "career": "Chronologie",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "about_me":{
+    "about_me": "De Moi",
+    "des": " Je suis une doctorante à l'Université du Vermont et je suis intéressé par la façon dont certains facteurs influent sur la transmission d'une maladie des amphibiens, le ranavirus."
+  },
+  },
+  "skills":{
+    "my_skills": "Mes Compétences"
+  },
+  "projects":{
+    "my_projects": "Mes Projets",
+    "saplatform": "Saplatform",
+    "jalpc": "Jalpc",
+    "angularjs": "Angularjs",
+    "rsser": "Rsser"
+  },
+  "career":{
+    "my_career": "Ma Chronologie",
+    "nextcode": "Collection de tissues amphibien",
+    "nextcode_des": "Je finis ma première saison sur le terrain, où je collectionnais les tissus orteil et la queue des amphibiens à 18 sites autour Vermont.",
+    "nextcode_date": "Mai-Août 2016",
+    "nextcode_job": "Travail sur le terrain",
+    "netease": "Commencé à l'Université du Vermont",
+    "netease_des": "J'ai commencé mon voyage pour obtenir mon diplôme de doctorat à l'Université du Vermont, conseillé par Dr. Nicholas Gotelli.",
+    "netease_date": "Août 2015",
+    "netease_job": "Doctorante",
+    "ucloud": "Diplômé de l'University College de Londres",
+    "ucloud_des": "Je suis diplômé de l'UCL avec un Master de Recherche en Biodiversité, Evolution et Conservation, et j'ai travaillé sur la modélisation des distributions de espèces pendant ce temps.",
+    "ucloud_date": "Sept. 2014",
+    "ucloud_job": "MRes",
+    "college": "Diplômé de l'Université de Floride",
+    "college_des": "Je suis diplômé de UF avec un baccalauréat en sciences en écologie et conservation de la faune.",
+    "college_date": "Mai 2012",
+    "college_job": "B.S."
+  },
+  "blog":{
+    "my_blog": "Mon Blog"
+  },
+  "link":{
+    "link": "Contact",
+    "view": "Vues"
+  }
+
+}
