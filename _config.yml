@@ -47,7 +47,7 @@ project:
     img: 'static/img/landing/saplatform.png'
   jalpc:
     name: 'Liatris novae-angliae'
-    url: ''
+    url: '/lvash/Liatris-novae-angliae'
     img: 'static/img/landing/rsser.png'
 
 
