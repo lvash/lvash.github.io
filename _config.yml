@@ -44,19 +44,12 @@ project:
   saplatform:
     name: ''
     url: ''
-    img: ''
+    img: 'static/img/landing/rsser.png'
   jalpc:
     name: ''
     url: ''
     img: ''
-  angularjs:
-    name: ''
-    url: ''
-    img: ''
-  Rsser:
-    name: ''
-    url: ''
-    img: 'static/img/landing/rsser.png'
+
 
 # blog index
 index:
