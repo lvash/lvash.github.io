@@ -42,9 +42,9 @@ landing:
 # my projects
 project:
   saplatform:
-    name: ''
-    url: ''
-    img: 'static/img/landing/rsser.png'
+    name: 'Infectious Diseases'
+    url: 'https://github.com/lvash/infectious_disease_project_dev'
+    img: 'static/img/landing/saplatform.png'
   jalpc:
     name: ''
     url: ''
