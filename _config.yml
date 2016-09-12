@@ -48,7 +48,7 @@ project:
   jalpc:
     name: 'Liatris novae-angliae'
     url: ''
-    img: 'static/img/landing/newfs.tiff'
+    img: 'static/img/landing/rsser.png'
 
 
 # blog index
