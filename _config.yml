@@ -46,9 +46,9 @@ project:
     url: '/lvash/infectious_disease_project_dev'
     img: 'static/img/landing/saplatform.png'
   jalpc:
-    name: ''
+    name: 'Liatris novae-angliae'
     url: ''
-    img: 'static/img/landing/saplatform.png'
+    img: 'static/img/landing/newfs.tiff'
 
 
 # blog index
