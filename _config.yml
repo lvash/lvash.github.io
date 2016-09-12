@@ -43,7 +43,7 @@ landing:
 project:
   saplatform:
     name: 'Infectious Diseases'
-    url: 'https://github.com/lvash/infectious_disease_project_dev'
+    url: 'lvash/infectious_disease_project_dev'
     img: 'static/img/landing/saplatform.png'
   jalpc:
     name: ''
