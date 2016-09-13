@@ -56,11 +56,10 @@ project:
 # blog index
 index:
   home: 'Home'
-  notebook: 'Notebook'
   disease: 'Disease'
-  resources: 'Resources'
-  gallery: 'Gallery'
   sdm: 'SDM'
+  resources: 'Resources'
+  notebook: 'Notebook'
 
 # comment
 changyan:
