@@ -102,7 +102,7 @@ color:#777777;
 }
 
 #picturelist img{
-display:inline-block;
+display:inline;
 vertical-align:middle;
 border:2px solid gray;
 }
