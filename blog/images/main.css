@@ -34,7 +34,7 @@ width:855px;}
 
 #navdiv ul li
 {
-	float: right;
+	float: left;
 	margin-right:10px;
 	list-style-type: none;
 	list-style-image: none;
