@@ -16,7 +16,7 @@ color: #515151;
 }
 
 #container{
-margin: 350px auto 0 auto;
+margin: 355px auto 0 auto;
 width:855px;}
 
 #navdiv
@@ -88,7 +88,7 @@ h2{font-size:2em;}
 h3{font-size:1.5em;}
 
 #picturelist {
-text-align:left;
+text-align:center;
 margin-right:auto;
 margin-left:auto;
 }
