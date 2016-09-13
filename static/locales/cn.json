@@ -4,7 +4,7 @@
   },
   "nav":{
     "home": "Accueil",
-    "about_me": "Moi",
+    "about_me": "Bio",
     "skills": "Compétences",
     "projects": "Projets",
     "career": "Chronologie",
@@ -13,7 +13,7 @@
     "link": "Contact"
   },
   "about_me":{
-    "about_me": "De Moi",
+    "about_me": "Ma Biographie",
     "des": "Je suis une doctorante à l'Université du Vermont et je suis intéressé par la façon dont certains facteurs influent sur la transmission d'une maladie des amphibiens, le ranavirus."
   },
   "skills":{
