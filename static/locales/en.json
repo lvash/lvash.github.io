@@ -46,6 +46,9 @@
   "blog":{
     "my_blog": "My Blog"
   },
+  "cv":{
+    "my_cv": "My CV"
+  },
   "link":{
     "link": "Contact",
     "view": "views"
