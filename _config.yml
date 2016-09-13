@@ -56,11 +56,11 @@ project:
 # blog index
 index:
   home: 'Home'
-  python: 'Notebook'
-  linux: 'CV'
+  notebook: 'Notebook'
+  disease: 'Disease'
   resources: 'Resources'
   gallery: 'Gallery'
-  life: 'Life'
+  sdm: 'Species Distribution Modeling'
 
 # comment
 changyan:

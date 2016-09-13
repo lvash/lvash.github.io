@@ -29,26 +29,20 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li><a class="page-scroll" href="/blog/">{{ site.index.home }}</a></li>
 
-                        {% if page.title == site.index.python %}
+                        {% if page.title == site.index.notebook %}
                             <li class="active">
                         {% else %}
                             <li>
                         {% endif %}
                             <a class="btn" href="https://github.com/lvash/Online-Notebook/blob/master/Online_notebook.md#amphibian-disease">{{ site.index.python }}</a></li>
 
-                        {% if page.title == site.index.linux %}
+                        {% if page.title == site.index.disease %}
                             <li class="active">
                         {% else %}
                             <li>
                         {% endif %}
-                            <a class="page-scroll" href="/linux/">{{ site.index.linux }}</a></li>
+                            <a class="page-scroll" href="/disease/">{{ site.index.disease }}</a></li>
 
-                        {% if page.title == site.index.html %}
-                            <li class="active">
-                        {% else %}
-                            <li>
-                        {% endif %}
-                            <a class="page-scroll" href="/html/">{{ site.index.html }}</a></li>
 
                         {% if page.title == site.index.resources %}
                             <li class="active">
@@ -57,19 +51,13 @@
                         {% endif %}
                             <a class="page-scroll" href="/resources/">{{ site.index.resources }}</a></li>
 
-                        {% if page.title == site.index.mac %}
-                            <li class="active">
-                        {% else %}
-                            <li>
-                        {% endif %}
-                            <a class="page-scroll" href="/mac/">{{ site.index.mac }}</a></li>
 
-                        {% if page.title == site.index.life %}
+                        {% if page.title == site.index.sdm %}
                             <li class="active">
                         {% else %}
                             <li>
                         {% endif %}
-                            <a class="page-scroll" href="/life/">{{ site.index.life }}</a></li>
+                            <a class="page-scroll" href="/sdm/">{{ site.index.sdm }}</a></li>
                     </ul>
                 </div>
             </div>
