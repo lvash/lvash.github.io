@@ -4,7 +4,7 @@ title:  "My Online Notebook"
 desc: ""
 keywords: ""
 date: 2016-09-02
-categories: [Notebook]
+categories: [Resources]
 tags: [blog, online notebook]
 ---
 
