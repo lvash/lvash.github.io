@@ -81,9 +81,9 @@ height:2600px;
 }
 
 h1,h2,h3,h4{
-padding:15px 0 5px 0 ;}
+padding:10px 0 5px 0 ;}
 
-h1{font-size:3.5em;padding-left:10px;}
+h1{font-size:3.5em;padding-left:10px; text-align:center}
 h2{font-size:2em;}
 h3{font-size:1.5em;}
 
