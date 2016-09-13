@@ -95,7 +95,7 @@ margin-left:auto;
 
 #picturelist li {
 list-style:none;
-float:center;
+float:left;
 margin:42px;
 font-weight:normal;
 color:#777777;
@@ -103,6 +103,7 @@ color:#777777;
 
 #picturelist img{
 display:block;
+vertical-align:middle;
 border:2px solid gray;
 }
 
