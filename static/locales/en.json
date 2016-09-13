@@ -46,6 +46,9 @@
   "blog":{
     "my_blog": "My Blog"
   },
+  "photo":{
+    "my_photo": "Gallery"
+  },
   "cv":{
     "my_cv": "CV"
   },
