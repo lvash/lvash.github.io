@@ -87,25 +87,6 @@ h1{font-size:8em;padding-left:40px;}
 h2{font-size:2em;}
 h3{font-size:1.5em;}
 
-#menu-outer {
-	height: 84px;
-	/*background: url(images/bar-bg.jpg) repeat-x;*/
-}
-
-.table {
-	display: table;   /* Allow the centering to work */
-	margin: 0 auto;
-}
-
-ul#horizontal-list {
-	min-width: 696px;
-	list-style: none;
-	padding-top: 20px;
-	}
-	ul#horizontal-list li {
-		display: inline;
-	}
-
 #picturelist {
 text-align:left;
 margin-right:auto;
