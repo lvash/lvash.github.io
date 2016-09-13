@@ -38,6 +38,7 @@ landing:
   projects: 'Projects'
   blog: 'Blog'
   link: 'Contact'
+  cv: 'CV'
 
 # my projects
 project:
