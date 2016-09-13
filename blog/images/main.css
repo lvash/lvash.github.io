@@ -88,14 +88,14 @@ h2{font-size:2em;}
 h3{font-size:1.5em;}
 
 #picturelist {
-text-align:center;
+text-align:left;
 margin-right:auto;
 margin-left:auto;
 }
 
 #picturelist li {
 list-style:none;
-float:left;
+float:center;
 margin:42px;
 font-weight:normal;
 color:#777777;
