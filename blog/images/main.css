@@ -96,14 +96,14 @@ margin-left:auto;
 #picturelist li {
 list-style:none;
 float:left;
-vertical-align:middle;
 margin:42px;
 font-weight:normal;
 color:#777777;
 }
 
 #picturelist img{
-display:block;
+display:inline-block;
+vertical-align:middle;
 border:2px solid gray;
 }
 
