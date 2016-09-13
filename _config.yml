@@ -37,8 +37,8 @@ landing:
   skills: 'Skills'
   projects: 'Projects'
   blog: 'Blog'
-  link: 'Contact'
   cv: 'CV'
+  link: 'Contact'
 
 # my projects
 project:
