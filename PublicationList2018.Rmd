@@ -5,8 +5,12 @@ output:
     theme: readable
 ---
 
+ 
+
+## [**$\leftarrow$ HOME**](https://lvash.github.io) 
+
 ### 2018
 
-> Brodie J., **L. V. Ash**, I. Tittley, and C. Yesson. 2018. A comparison of multispectral aerial and satellite imagery for mapping intertidal seaweek communities. Aquatic Conservation [https://doi.org/10.1002/aqc.2905](https://doi.org/10.1002/aqc.2905)
+> Brodie J., **L. V. Ash**, I. Tittley, and C. Yesson. 2018. A comparison of multispectral aerial and satellite imagery for mapping intertidal seaweed communities. Aquatic Conservation [https://doi.org/10.1002/aqc.2905](https://doi.org/10.1002/aqc.2905)
 
 > Rijks J. M., B. Saucedo, J. L. Brunner, P. Hick, D. Lesbarrères, A. Duffus, **L. V. Ash**, and R. E. Marschang. 2018. Report on the 4th International Symposium on Ranaviruses 2017. Journal of Herpetological Medicine and Surgery **28**:13-18. [Link](https://doi.org/10.5818/17-10-131.1)
