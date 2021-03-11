@@ -1,0 +1,18 @@
+---
+title: "Publications"
+output: 
+  html_document: 
+    theme: flatly
+    highlight: textmate
+---
+
+
+## [**$\leftarrow$ HOME**](https://lvash.github.io) 
+
+> Oda F. H., S. Ferreira dos Anjos, J. E. Paula Lima, **L. V. Ash**, K. M. Campião, and D. J. Rodrigues. 2021. Three is a crowd: Conspecific multi-male spawning in the Spotted Toad *Rhaebo guttatus* (Schneider, 1799). Austral Ecology [https://doi.org/10.1111/aec.13014](https://doi.org/10.1111/aec.13014)  
+
+> **Ash L. V.**, R. E. Marschang, J. M. Rijks, and A. Duffus. 2020. The Fourth International Symposium on Ranaviruses: Summary of North American Herpetological Content and Points of Interest: 4th International Ranavirus Symposium. The Journal of North American Herpetology [https://doi.org/10.17161/jnah.vi.13539](https://doi.org/10.17161/jnah.vi.13539)
+
+> Brodie J., **L. V. Ash**, I. Tittley, and C. Yesson. 2018. A comparison of multispectral aerial and satellite imagery for mapping intertidal seaweed communities. Aquatic Conservation [https://doi.org/10.1002/aqc.2905](https://doi.org/10.1002/aqc.2905)
+
+> Rijks J. M., B. Saucedo, J. L. Brunner, P. Hick, D. Lesbarrères, A. Duffus, **L. V. Ash**, and R. E. Marschang. 2018. Report on the 4th International Symposium on Ranaviruses 2017. Journal of Herpetological Medicine and Surgery **28**:13-18. [https://doi.org/10.5818/17-10-131.1](https://doi.org/10.5818/17-10-131.1)
