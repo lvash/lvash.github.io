@@ -3,7 +3,7 @@
 # Website settings
 title: "Lauren Ash"
 description: "Lauren's website"
-keywords: "UVM, amphibian, disease"
+keywords: "research, amphibian, disease"
 baseurl: "/"
 url: "http://www.lvash.github.io"
 # url: "http://127.0.0.1:4000"
@@ -16,7 +16,7 @@ author:
   name: 'Lauren'
   first_name: 'Ash'
   last_name: 'Lauren'
-  email: 'lvash@uvm.edu'
+  email: 'lvash@usf.edu'
   facebook_username: ''
   github_username: 'lvash'
   head_img: 'static/img/landing/Lauren.jpg'
@@ -27,7 +27,7 @@ jingyu:
   last_name: ''
   description: ''
   link: 'https://www.researchgate.net/profile/Lauren_Ash2'
-  email: 'lvash@uvm.edu'
+  email: 'lvash@usf.edu'
 
 # landing page
 landing:
