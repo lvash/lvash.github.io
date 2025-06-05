@@ -45,8 +45,8 @@ landing:
 # my projects
 project:
   saplatform:
-    name: 'Infectious Diseases'
-    url: '/lvash/infectious_disease_project_dev'
+    name: 'Ranavirus and Macroparasite Co-infection Patterns'
+    url: '/lvash/Brazil-Bullfrog-Coinfection'
     img: 'static/img/landing/saplatform.png'
   jalpc:
     name: 'Liatris novae-angliae'
