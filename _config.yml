@@ -52,6 +52,10 @@ project:
     name: 'Liatris novae-angliae'
     url: '/lvash/Liatris-novae-angliae'
     img: 'static/img/landing/rsser.png'
+  pestatlas:
+    name: 'Barracuda Pest Atlas'
+    url: '/lvash/Barracuda_Pest-Atlas'
+    img: 'static/img/landing/fly_icon_transparent.png'
 
 
 # blog index
